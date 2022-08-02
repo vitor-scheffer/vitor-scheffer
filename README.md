@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vitor-scheffer
-- 🌱 How to reach me:
+<h3 align="center">- 👋 Hi, I’m @vitor-scheffer</h3>
+<h3 align="left">Connect with me:</h3>
 <div>
 <a href="https://instagram.com/_vitorscheffer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:vitorscheffer61@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,7 +14,7 @@
 </div>
 <br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitor-scheffer&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-scheffer" /> </p>
 
@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
