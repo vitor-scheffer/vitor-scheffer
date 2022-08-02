@@ -17,5 +17,5 @@
 </div>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-scheffer&" alt="vitor-scheffer" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-scheffer&" alt="vitor-scheffer" /></p>
 
